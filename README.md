@@ -4,13 +4,10 @@
 
 <h1 align="center">The BRIDGE dataset</h1>
 
-<p align="center">
-  <b>Paired brightfield whole-slide images of prostate core-needle biopsies in paraffin, after deparaffinization and H&amp;E staining</b>
-</p>
+<h3 align="center">Paired brightfield whole-slide images of prostate core-needle biopsies in paraffin, after deparaffinization and H&amp;E staining</h3>
 
 <p align="center">
-  <a href="ARXIV_LINK"><img src="https://img.shields.io/badge/arXiv-XXXX.XXXXX-b31b1b.svg" alt="arXiv"></a>
-  <img src="https://img.shields.io/badge/data-available%20upon%20acceptance-lightgrey.svg" alt="Data available upon acceptance">
+  <a href="https://arxiv.org/abs/2611.13883"><img src="https://img.shields.io/badge/arXiv-2611.13883-b31b1b.svg" alt="arXiv"></a>
 </p>
 
 <p align="center">
@@ -106,15 +103,15 @@ BRIDGE/
 
 If you use BRIDGE in your work, please cite:
 
-> Mielcarz J. A., Durślewicz J., Zdrenka M., Abbadi A., Eklund M., Matusiak M., Szylberg Ł., Camilloni A. *The BRIDGE dataset: Paired brightfield whole-slide images of prostate core-needle biopsies in paraffin, after deparaffinization and H&E staining.* arXiv: [XXXX.XXXXX](ARXIV_LINK), 2026.
+> Mielcarz J. A., Durślewicz J., Zdrenka M., Abbadi A., Eklund M., Matusiak M., Szylberg Ł., Camilloni A. *The BRIDGE dataset: Paired brightfield whole-slide images of prostate core-needle biopsies in paraffin, after deparaffinization and H&E staining.* arXiv: 2611.13883, 2026.
 
 ```bibtex
 @article{mielcarz2026bridge,
   title   = {The {BRIDGE} dataset: Paired brightfield whole-slide images of prostate core-needle biopsies in paraffin, after deparaffinization and {H\&E} staining},
   author  = {Mielcarz, Julia A. and Dur{\'s}lewicz, Justyna and Zdrenka, Marek and Abbadi, Ahmad and Eklund, Martin and Matusiak, Mateusz and Szylberg, {\L}ukasz and Camilloni, Andrea},
-  journal = {arXiv preprint arXiv:XXXX.XXXXX},
+  journal = {arXiv preprint arXiv:2611.13883},
   year    = {2026},
-  url     = {ARXIV_LINK}
+  url     = {https://arxiv.org/abs/2611.13883}
 }
 ```
 
